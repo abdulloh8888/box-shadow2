@@ -1,0 +1,128 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: #fff;
+}
+nav{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+button{
+    border-radius: 15px;
+    border: none;
+    background-color: #009FF5B5;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: #fff;
+    box-shadow: 0px 5px 5px white;
+}
+main h1{
+border: 10px solid #5A5555;
+background-color: #FFC611;
+width: 600px;
+height: 100px;
+border-radius: 80px;
+display: flex;
+align-items: center;
+justify-content: center;
+margin: 200px 400px;
+}
+.card{
+    width: 360px;
+    height: 420px;
+    text-align: center;
+    background-color: #1F1F1F;
+    box-shadow: 8px 7px 20px 0px rgba(255, 255, 255, 1);
+}
+.card img{
+    width: 100%;
+}
+.card b{
+    color: black;
+    font-size: 36px;
+    box-shadow: 0px 4px 4px 0px rgba(255, 194, 0, 1);
+}
+.qw{
+height: 350px;
+}
+.box{
+    display: flex;
+    justify-content: space-around;
+}
+.bg{
+    background-image: url(./background/image.png);
+}
+.ota{
+    display: flex;
+    background-color: #000;
+    color: #fff;
+}
+.ota img{
+    width: 571px;
+    height: 305px;
+}
+.ona{
+    width: 663px;
+    height: 140px;
+    margin-left: 40px;
+}
+
+.but{
+width: 278px;
+height: 61px;
+display: flex;
+align-items: center;
+justify-content: center;
+background-color: rgba(83, 83, 83, 1);
+font-size: 27px;
+border-radius: 1px;
+box-shadow: 0px 7px 12.8px 0px rgba(255, 255, 255, 1);
+}
+.ona p{
+    font-size: 27px;
+}
+.doda{
+    display: flex;
+    justify-content: space-around;
+    background-color: #000;
+    color: #fff;
+}
+.buvi p{
+    font-size: 27px;
+}
+.buvi{
+    width: 663px;
+    height: 140px;
+}
+.der{
+    width: 572px;
+    height: 304px;
+}
+.tub{
+    width: 278px;
+    height: 61px;
+    border-radius: 1px;
+    box-shadow: 0px 7px 12.8px 0px rgba(255, 255, 255, 1);
+    color: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 27px;
+    color: #000;
+}
+footer{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 158px;
+    background-color: rgba(255, 198, 17, 1);
+    justify-content: space-between;
+    color: #fff;
+}
+.z{
+width: 101px;
+height: 55px;
+}
